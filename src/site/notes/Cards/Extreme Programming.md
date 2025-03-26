@@ -4,7 +4,7 @@
 
 - No começo, era confundido com o conceito de [[Encounters/Metodologias Ágeis\|Metodologias Ágeis]] 
 #### Elementos
-- [[Encounters/Testes automatizados\|Testes automatizados]]
+- [[Testes aputomatizados\|Testes aputomatizados]]
 - Revisão de código
 - [[Encounters/Programação em par\|Programação em par]]
 #### Conceitos
